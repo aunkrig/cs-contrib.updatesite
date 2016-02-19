@@ -3,7 +3,7 @@
    <description name="cs-contrib update site" url="http://cs-contrib.unkrig.de/update/">
       The update site for the &quot;cs-contrib.unkrig.de&quot; feature.
    </description>
-   <feature url="features/de.unkrig.cs-contrib_1.2.9.201602071409.jar" id="de.unkrig.cs-contrib" version="1.2.9.201602071409">
+   <feature url="features/de.unkrig.cs-contrib_1.2.10.201602191110.jar" id="de.unkrig.cs-contrib" version="1.2.10.201602191110">
       <category name="de.unkrig.cs-contrib"/>
    </feature>
    <category-def name="de.unkrig.cs-contrib" label="cs-contrib">
