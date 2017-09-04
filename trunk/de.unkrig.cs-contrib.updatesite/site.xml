@@ -3,9 +3,7 @@
    <description name="cs-contrib update site" url="http://cs-contrib.unkrig.de/update/">
       The update site for the &quot;cs-contrib.unkrig.de&quot; feature.
    </description>
-   <feature url="features/de.unkrig.cs-contrib_1.2.11.201602191424.jar" id="de.unkrig.cs-contrib" version="1.2.11.201602191424">
-      <category name="de.unkrig.cs-contrib"/>
-   </feature>
+   <feature url="features/de.unkrig.cs-contrib_1.2.12.201709021947.jar" id="de.unkrig.cs-contrib" version="1.2.12.201709021947"/>
    <category-def name="de.unkrig.cs-contrib" label="cs-contrib">
       <description>
          Additional checks, filters and quickfixes for CheckStyle (http://checkstyle.sourceforge.net/)
